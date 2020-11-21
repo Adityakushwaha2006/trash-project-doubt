@@ -1,1 +1,2 @@
-# trash-project-doubt
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
